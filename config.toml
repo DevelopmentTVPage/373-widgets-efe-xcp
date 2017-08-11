@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "Efe"
+baseURL = "https:\/\/widgets.efe.xcp"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758904"
+subfolder = ""
+firstPartyCookies = true
+cookiedomain = "efe.xcp"
